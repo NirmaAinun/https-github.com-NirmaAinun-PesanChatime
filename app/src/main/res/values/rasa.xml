@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rasa">
+        <item>Hazelnut Chocolate Milk Tea</item>
+        <item>Roasted Milk Tea </item>
+        <item>Matcha Tea Latte</item>
+        <item>Mango Smoothies</item>
+        <item>Chocolate Mousse</item>
+        <item>Green Tea Mousse</item>
+        <item>Grass Jelly Milk Tea</item>
+    </string-array>
+</resources>
