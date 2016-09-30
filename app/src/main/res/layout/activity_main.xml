@@ -135,7 +135,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:background="#fb72b9"
-            android:text="Pesanan" />
+            android:text="Pesanan"
+            android:textColor="#000000" />
 
     </LinearLayout>
 </ScrollView>
