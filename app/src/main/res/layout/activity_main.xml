@@ -95,7 +95,8 @@
 
         <RadioGroup
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:layout_weight="0.37">
 
             <RadioButton
                 android:id="@+id/radioButtonB"
@@ -124,6 +125,13 @@
                 android:layout_height="wrap_content"
                 android:checked="false"
                 android:text="Pearl" />
+
+            <RadioButton
+                android:id="@+id/radioButtonG"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Grass Jelly" />
 
         </RadioGroup>
 
