@@ -24,7 +24,8 @@
             android:layout_gravity="center_horizontal"
             android:layout_weight="0.15"
             android:text="FORM PEMESANAN"
-            android:textColor="@color/abc_primary_text_material_light" />
+            android:textColor="@color/abc_primary_text_material_light"
+            android:textIsSelectable="false" />
 
         <ImageView
             android:id="@+id/imageView2"
@@ -33,6 +34,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/imageView"
+            android:layout_weight="0.13"
             android:src="@drawable/chattime" />
 
         <TextView
@@ -76,6 +78,14 @@
             android:layout_height="wrap_content"
             android:checked="false"
             android:text="Large" />
+
+        <CheckBox
+            android:id="@+id/checkBoxM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.15"
+            android:checked="false"
+            android:text="Medium" />
 
         <TextView
             android:id="@+id/textView3"
