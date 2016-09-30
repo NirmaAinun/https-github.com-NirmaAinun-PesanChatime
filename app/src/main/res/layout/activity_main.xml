@@ -88,7 +88,7 @@
         <RadioGroup
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0.37">
+            android:layout_weight="0.10">
 
             <RadioButton
                 android:id="@+id/radioButtonB"
@@ -123,7 +123,7 @@
         <Button
             android:id="@+id/buttonOK"
             android:layout_width="103dp"
-            android:layout_height="wrap_content"
+            android:layout_height="31dp"
             android:layout_gravity="center_horizontal"
             android:allowUndo="false"
             android:background="@color/abc_btn_colored_borderless_text_material"
