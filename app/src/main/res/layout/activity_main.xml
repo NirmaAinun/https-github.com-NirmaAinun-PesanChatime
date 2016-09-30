@@ -23,7 +23,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_weight="0.15"
-            android:text="FORM PEMESANAN" />
+            android:text="FORM PEMESANAN"
+            android:textColor="@color/abc_primary_text_material_light" />
 
         <ImageView
             android:id="@+id/imageView2"
