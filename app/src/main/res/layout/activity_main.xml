@@ -79,14 +79,6 @@
             android:checked="false"
             android:text="Large" />
 
-        <CheckBox
-            android:id="@+id/checkBoxM"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="0.15"
-            android:checked="false"
-            android:text="Medium" />
-
         <TextView
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
@@ -132,13 +124,6 @@
                 android:layout_height="wrap_content"
                 android:checked="false"
                 android:text="Grass Jelly" />
-
-            <RadioButton
-                android:id="@+id/radioButtonPu"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:checked="false"
-                android:text="Puding" />
 
         </RadioGroup>
 
